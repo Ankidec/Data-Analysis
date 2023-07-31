@@ -3,6 +3,6 @@ pandas
 matplotlib
 seaborn
 plotly
-openpyx1
+openpyxl 
 nbformat
 scipy
